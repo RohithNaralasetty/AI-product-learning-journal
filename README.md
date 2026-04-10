@@ -1,2 +1,2 @@
 # AI-product-learning-journal
-Running build log
+Running build log & notable learnings
